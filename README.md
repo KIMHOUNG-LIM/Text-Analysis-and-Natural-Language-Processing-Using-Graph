@@ -33,14 +33,13 @@ In this practice, we address the limitations of knowledge graphs in clustering d
 - Implementing bipartite graphs to cluster documents based on semantic similarity.
 - Enhancing document clustering techniques through graph-based methods.
 
-## Acknowledgments  
-
-This project is inspired by the book Graph Machine Learning by Claudio Stamile, Aldo Marzullo, and Enrico Deusebio. Special thanks to the authors for providing valuable insights and knowledge.
-
-
 ### Practice 4: Multi-Label Classification Using Bipartite Entity-Document Graphs
 
 This practice aims to leverage the information and connections between entities from bipartite entity-document graphs to train multi-label classifiers. The objectives are:
 
 - Utilizing bipartite graphs for feature extraction.
 - Training multi-label classifiers to predict document topics based on extracted features.
+
+## Acknowledgments  
+
+This project is inspired by the book Graph Machine Learning by Claudio Stamile, Aldo Marzullo, and Enrico Deusebio. Special thanks to the authors for providing valuable insights and knowledge.
