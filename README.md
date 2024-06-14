@@ -4,7 +4,7 @@ This repository contains my practice work on text analysis using graph-based met
 
 ## Overview
 
-The aim of this project is to explore various techniques in Natural Language Processing (NLP) through the use of graph structures. The practices are designed to enhance understanding and application of key concepts in NLP, such as text segmentation, tokenization, part-of-speech tagging, named entity recognition (NER), dependency parsing, lemmatization, knowledge graphs, and multi-label classification.
+The aim of this project is to explore various techniques in Natural Language Processing (NLP) and understand how to analyst text using graph. The practices introduce application of key concepts in NLP, such as text segmentation, tokenization, part-of-speech tagging, named entity recognition (NER), dependency parsing, lemmatization, text analysis using knowledge graphs and bipartite graph, and multi-label classification to predict document topic.
 
 ## Practices
 
